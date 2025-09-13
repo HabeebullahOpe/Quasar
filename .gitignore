@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Discord
+.env
+
+# Tokens and secrets
+*.token
+secrets.txt
