@@ -1,1 +1,1 @@
-worker: python memmer.py
+"worker: python memmer.py" 
