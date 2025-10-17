@@ -48,7 +48,6 @@ async def on_message(message):
             # Create embed with GIF
             embed = discord.Embed(color=0x00ff00)
             embed.set_image(url=gif_url)
-            
             await message.channel.send(embed=embed)
             break
 
