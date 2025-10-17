@@ -12,14 +12,23 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 
 # Your meme database
 meme_database = {
-    "love": [
-        "https://tenor.com/view/zaunvi-caitvitwt-gif-1251875630135871970"
+    "slimer": [
+        "https://tenor.com/bRMz0.gif"
     ],
-    "hate": [
-        "https://tenor.com/view/zaunvi-caitvitwt-gif-12615945993949253836"
+    "slime": [
+        "https://tenor.com/bESpJ.gif"
     ],
-    "felicia": [
-        "https://tenor.com/view/zaunvi-caitvitwt-gif-8411954659816570775"
+    "congrat": [
+        "https://tenor.com/brBMj.gif"
+    ],
+    "more": [
+        "https://tenor.com/bXDDI.gif"
+    ],
+    "yikes": [
+        "https://tenor.com/rciVwrEUYEk.gif"
+    ],
+    "no way": [
+        "https://tenor.com/qOtmsKE03Nv.gif"
     ]
 }
 
