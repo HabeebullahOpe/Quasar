@@ -13,25 +13,25 @@ bot = commands.Bot(command_prefix="!", intents=intents)
 # Your meme database
 meme_database = {
     "slimer": [
-        "https://media1.tenor.com/m/2W6tUygBb1gAAAAd/gunge-male.gif"
+        "https://media.tenor.com/2W6tUygBb1gAAAAC/gunge-male.gif"
     ],
     "slime": [
-        "https://media1.tenor.com/m/fwUh3G_4g3cAAAAd/slime-sliming.gif"
+        "https://media.tenor.com/fwUh3G_4g3cAAAAC/slime-sliming.gif"
     ],
     "congrat": [
-        "https://media1.tenor.com/m/VOUzW9uvebkAAAAd/dantdm-cbbc.gif"
+        "https://media.tenor.com/VOUzW9uvebkAAAAC/dantdm-cbbc.gif"
     ],
     "more": [
-        "https://media1.tenor.com/m/wshzHt1SerQAAAAd/elmo-slime-slime.gif"
+        "https://media.tenor.com/wshzHt1SerQAAAAC/elmo-slime-slime.gif"
     ],
     "yikes": [
-        "https://media1.tenor.com/m/xmlrr-H-yGYAAAAd/yikes.gif"
+        "https://media.tenor.com/xmlrr-H-yGYAAAAC/yikes.gif"
     ],
     "no way": [
-        "https://media1.tenor.com/m/we9F9lBaHKMAAAAd/whaaa-what.gif"
+        "https://media.tenor.com/we9F9lBaHKMAAAAC/whaaa-what.gif"
     ],
     "love you": [
-        "https://media1.tenor.com/m/GnQIL9rSPWkAAAAC/castanholas.gif"
+        "https://media.tenor.com/GnQIL9rSPWkAAAAC/castanholas.gif"
     ]
 }
 
